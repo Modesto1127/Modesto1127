@@ -2,7 +2,7 @@
 Do you know me? I'm a software engineer.
 - 👋 Hi, I’m @Modesto1127
 - 👀 I’m interested in Client Development and Web Development
-- 🌱 I’m currently learning TypeScript and React
+- 🌱 I’m currently learning TypeScript and Rust
 - 📫 How to reach me:
   - Email: ModestoMa1127@gmail.com
   - WeChat: Modesto_114
